@@ -1,7 +1,7 @@
 #Test Here
 ## What is this?
-This could be a decent way to have the Marines write their stories for the Windsock.
-Is there any way to leave annotations? If so, that would make it excellent!
+This is a decent way to have the Marines write their stories for the Windsock.
+Is there any way to leave annotations? We must find one. If so, that would make it excellent!
 ## Reasons to use this app
 - It would be easy to track changes.
 - Less paper.
