@@ -1,14 +1,12 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="1265.19">
-  <style type="text/css">
-  </style>
-</head>
-<body>
-</body>
-</html>
+#Test Here
+## What is this?
+This could be a decent way to have the Marines write their stories for the Windsock.
+Is there any way to leave annotations? If so, that would make it excellent!
+## Reasons to use this app
+- It would be easy to track changes.
+- Less paper.
+- No reason to fail.
+## Reasons not to use this app
+- Lack of privacy
+- Requirement for internet connection
+- Lack of interest.
