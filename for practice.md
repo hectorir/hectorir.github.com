@@ -8,5 +8,7 @@ Is there any way to leave annotations? We must find one. If so, that would make 
 - No reason to fail.
 ## Reasons not to use this app
 - Lack of privacy
-- Requirement for internet connection
+- Requirement for internet connection!
 - Lack of interest.
+
+[During the storm](//during.jpg)
